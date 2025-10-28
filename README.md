@@ -1,4 +1,5 @@
-# 🧠 YOLO-Based Defect Detection Model for NDT Applications
+# 🧠 AI-Driven Defect Detection and Smart Inspection System using YOLOv11s
+
 
 ### 🏢 Developed during internship at [Tata Advanced Systems Ltd (TASL), Bengaluru](https://www.tataadvancedsystems.com/)
 
